@@ -8,7 +8,7 @@ This repository consists projects and related material exercises of [Intro to Se
 |Parts                           | Projects                           |
 |------------------------- | -------------------               |
 |1. Orientation            | None
-|2. Baysian Thinking    | [Trafic Light Classifier]()   |
+|2. Baysian Thinking    | [Joy Ride](https://github.com/Hancullen/Udacity-Intro-to-Self-Driving-Cars/tree/master/Joy_Ride)   |
 |3. Working with Matrices   | [Implement a Matrix Class]() |
 |4. C++ Basics  | [Translate Python to C++]() |
 |5. Performance Programming in C++  | None |
