@@ -1,8 +1,9 @@
-# Udacity Intro to Self-Driving Cars Nanodegree Program
+# [Udacity Intro to Self-Driving Cars Nanodegree Program](https://www.udacity.com/course/intro-to-self-driving-cars--nd113)
 
 <img src="intro.jpg" align="center">
 
-This repository consists projects and related material exercises of [Intro to Self-Driving Cars Nanodegree Program](https://www.udacity.com/course/intro-to-self-driving-cars--nd113)
+This repository consists five projects and related material exercises which let you sharpen your Python skills, apply C++, apply matrices and calculus in code, 
+and touch on computer vision and machine learning. These concepts will be applied to solving self-driving car problems.
 
 ##### Syllabus 
 |Parts                           | Projects                           |
